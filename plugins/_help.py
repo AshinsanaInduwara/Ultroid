@@ -13,7 +13,7 @@ from telethon.errors.rpcerrorlist import BotResponseTimeoutError as rep
 from . import *
 
 C_PIC = udB.get("INLINE_PIC")
-_file_to_replace = C_PIC or "resources/extras/inline.jpg"
+_file_to_replace = C_PIC or "resources/extras/inline3.jpg"
 
 _main_help_menu = [
     [
